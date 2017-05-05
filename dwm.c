@@ -2126,7 +2126,6 @@ zoom(const Arg *arg) {
 	pop(c);
 }
 
-void
 int
 main(int argc, char *argv[]) {
 	if(argc == 2 && !strcmp("-v", argv[1]))
